@@ -1,0 +1,21 @@
+{
+  "name": "sample-web-service",
+  "version": "1.0.0",
+  "description": "a sample web service to help learn node",
+  "main": "stocks-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  },
+  "type": "commonjs"
+}
